@@ -1,0 +1,3 @@
+[submodule "vokuro"]
+	path = vokuro
+	url = git@github.com:phalcon/vokuro.git
