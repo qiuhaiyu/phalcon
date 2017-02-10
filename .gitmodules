@@ -1,3 +1,6 @@
 [submodule "vokuro"]
 	path = vokuro
 	url = git@github.com:phalcon/vokuro.git
+[submodule "hello-world"]
+	path = hello-world
+	url = git@github.com:qiuhaiyu/hello-world.git
